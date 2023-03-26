@@ -1,6 +1,6 @@
 Interactive-quiz_py-Project.
 
-This repository contains interactive quiz 
+This repository contains interactive quiz
 1) It is made using python programming language.
 2) This project includes imported files like Tkinter and Random.
 3) It starts as soon as the start button is pressed and askes teh user to answer the questions.
